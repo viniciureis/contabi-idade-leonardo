@@ -110,16 +110,16 @@ div #pro>  h1{font-size: 20px;
     body{width: 100%;}
     main{margin: 0px 0px 0px 0px;}
     .car{height: 30px;}
-    img{height: 100px; position: none;
+    img{ width: 1%;  margin-right: 0px; padding-right: 0px;
   
     }
     .grid{display: grid;
       grid-template-columns: 250px }
       .bac1{min-height: 560px;}
       .gr{display: none;}
-     .wal{width: 30%; margin-top: 80px; margin-left: 0 ;padding-right: 0;}
+     .wal,.wale{ display: none; margin-top: 80px; margin-left: 0 ;padding-right: 0;}
     
-     img{display: none;}
+   
      .card,.card1{justify-items: center; justify-self: center;justify-content: center;}
      .card1#pro{justify-content: center; text-align: center;}
      
