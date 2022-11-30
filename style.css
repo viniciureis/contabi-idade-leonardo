@@ -102,7 +102,9 @@ div #pro>  h1{font-size: 20px;
   height: 400px;}
 
   
-  
+  .img1{width: 100%; border-radius: 40px;}
+  .empresa{background-color: black; color: white; display: grid;
+  grid-template-columns: 1fr 1fr;}
 
    .conteudo{text-align: center; padding-top: 20px; font-size: 70px;}
 
@@ -124,6 +126,9 @@ div #pro>  h1{font-size: 20px;
    
      .card,.card1{justify-items: center; justify-self: center;justify-content: center; margin-right: 0px; padding-right: 0px;}
      .card1#pro{justify-content: center; text-align: center;}
-     
+     .medo{display: none;}
+     .dep1{display: none;}
+     .empresa{display: grid;
+    grid-template-columns: 1fr; font-size: 15px; justify-content: center; text-align: center; padding-right: 20px; padding-left: 20px;}
   }
 
