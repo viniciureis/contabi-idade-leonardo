@@ -82,7 +82,7 @@ grid-template-columns: 1fr 2fr;}
   font-size: 0.5;
   margin-left: -40px; }
 
-div #pro>  h1{font-size: 20px;
+div #pro> h1{font-size: 20px;
   padding-top: 40px;}
 
 .card2{display: inline; 
@@ -95,18 +95,92 @@ div #pro>  h1{font-size: 20px;
 
    .color1{color: rgb(8, 8, 134); }
 
-   button{border-radius: 22px; padding: 3px; margin-bottom: 48px;}
+   button{border-radius: 22px;
+     padding: 3px; 
+     margin-bottom: 48px;}
+
    h5{padding-left: 20px;}
 
-   .compa{background-image: url(imgs/background.png); background-position: right  ; background-repeat: no-repeat; background-size: cover;  background-attachment: fixed; 
-  height: 400px;}
+   .compa{background-image: url(imgs/background.png);
+     background-position: right  ; 
+     background-repeat: no-repeat; 
+     background-size: cover;  
+     background-attachment: fixed; 
+     height: 400px;}
 
   
   .img1{width: 100%; border-radius: 40px;}
+
   .empresa{background-color: black; color: white; display: grid;
   grid-template-columns: 1fr 1fr;padding-left: 50px;}
 
    .conteudo{text-align: center; padding-top: 20px; font-size: 70px;}
+
+   .ba1{background-color: rgba(128, 128, 128, 0.582);}
+
+   .grid12{display: grid; grid-template-columns: 1fr ;}
+
+   .i{font-size: 20px;}
+
+   .fel{text-align: end; margin-top: -463px;padding-right: 290px; justify-content: start; justify-items: start;}
+
+   .tr{padding-left: 50px;}
+
+   .tp{width:850px ; margin-top: -400px;  padding-left: 250px;}
+
+   .img12{width: 30%;}
+
+   .pi{font-size: 18px;color: black;padding-top: 30px;}
+
+   .gf{padding-left: 50px;}
+
+  .mr{margin-top: 80px;padding-left: 40px;}
+
+  a{text-decoration: none;}
+
+.der{padding: 10px 10px 10px 10px; text-align: center;}
+
+.df{padding-left: 40px;}
+
+.fp{padding-left: 30px;}
+
+.nos{font-size: 15px;padding-left: 40px;}
+
+.ght{padding-right: 85px;padding-top: 30px; }
+
+.conheca{background-color: blue; width: 100% ;
+  color: white;}
+  .fg{margin-top: 20px;}
+  div>a{color: aliceblue;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    @media(max-width:500px){
     body{width: 100%;}
